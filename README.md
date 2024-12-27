@@ -3,6 +3,7 @@
 The urls it uses to get the files, however, do still exist and work, so if a existing version of the cache is used instead pipwin will still function.
 
 # Installation
-1. Download the `.pipwin` file.
-2. Put it in the user directory (`C:\users\<name>\.pipwin`)
-3. Run pipwin again.
+1. Download the `pipwin` file.
+2. Put it in the user directory (`C:\users\<name>\pipwin`)
+3. Rename the file to `.pipwin` so Pipwin will use it.
+4. Run pipwin again.
